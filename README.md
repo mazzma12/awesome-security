@@ -258,6 +258,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 ## Social Engineering
 
 - [Gophish](https://getgophish.com/) - An Open-Source Phishing Framework.
+- [Social Engineering Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit is an open-source penetration testing framework designed for social engineering. 
 
 ## Web
 
